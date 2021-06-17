@@ -1,6 +1,6 @@
 # Pastane_Otomasyon
 # Uygulama Bağlantısı
-### Pastane otomasyon sistemine [buradan](elanurbasaran.eu5.org) erişebilirsiniz.
+### Pastane otomasyon sistemine [buradan](http://elanurbasaran.eu5.org/) erişebilirsiniz.
 # Projede Kullanılan Teknolojiler
 ### Pastane otomasyon sistemi PHP,MySQL,Html ve CSS kullanılarak geliştirilmiş bir uygulamadır.
 # Projenin Amacı
